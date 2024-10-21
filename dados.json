@@ -1,0 +1,74 @@
+{
+    "dados":[
+        {
+            "time":"15:00",
+            "data": "23/09", 
+            "temperatura":30
+        },
+        {
+            "time":"15:00",
+            "data": "24/09", 
+            "temperatura":31
+        },
+        {
+            "time":"15:00",
+            "data": "25/09", 
+            "temperatura":26
+        },
+        {
+            "time":"15:00",
+            "data": "26/09", 
+            "temperatura":28
+        },
+        {
+            "time":"15:00",
+            "data": "27/09", 
+            "temperatura":30
+        },
+        {
+            "time":"15:00",
+            "data": "28/09", 
+            "temperatura":33
+        },
+        {
+            "time":"15:00",
+            "data": "29/09", 
+            "temperatura":31
+        },
+        {
+            "time":"15:00",
+            "data": "30/09", 
+            "temperatura":32
+        },
+        {
+            "time":"15:00",
+            "data": "01/10", 
+            "temperatura":29
+        },
+        {
+            "time":"15:00",
+            "data": "02/10", 
+            "temperatura":28
+        },
+        {
+            "time":"15:00",
+            "data": "03/10", 
+            "temperatura":28
+        },
+        {
+            "time":"15:00",
+            "data": "04/10", 
+            "temperatura":29
+        },
+        {
+            "time":"15:00",
+            "data": "05/10", 
+            "temperatura":30
+        },
+        {
+            "time":"15:00",
+            "data": "06/10", 
+            "temperatura":33
+        }
+    ]
+}
